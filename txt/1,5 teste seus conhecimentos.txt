@@ -1,0 +1,83 @@
+questão 01: Qual é o elemento HTML5 utilizado para especificar o rodapé da página?
+
+a.
+<footer>
+
+b.
+<section>
+
+c.
+<bottom>
+
+quatão 02: Assinale a estrutura básica de páginas HTML corretamente escrita:
+
+a.
+<html>
+<head></head>
+</html>
+
+
+b.
+<html>
+<title>
+Título
+</title>
+<body></body>
+</html>
+
+
+c.
+<html>
+<head>
+<title>Título</title>
+</head>
+<body>
+</body>
+</html>
+
+
+d.
+<html>
+<head></head>
+<body>
+<title>Título</title>
+</body>
+</html>
+
+
+e.
+<html>
+<title>Título</title>
+<head></head>
+<body></body>
+</html>
+
+
+f.
+<html>
+<body></body>
+</html>
+
+questão 03: Para cada linguagem abaixo, assinale se trata-se de uma linguagem cliente ou servidor
+
+PHP
+
+Resposta 1
+Escolher...
+JS
+
+Resposta 2
+Escolher...
+Python
+
+Resposta 3
+Escolher...
+HTML
+
+Resposta 4
+Escolher...
+CSS
+
+Resposta 5
+Escolher...
+ASP
