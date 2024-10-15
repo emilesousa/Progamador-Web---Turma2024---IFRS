@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif; /* Fonte da página */
+    display: flex; /* Usando Flexbox para centralizar */
+    flex-direction: column; /* Direção das colunas */
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+    height: 100vh; /* Altura total da tela */
+    background-color: #f4f4f4; /* Cor de fundo */
+}
+
+#calculator {
+    background: white; /* Fundo da calculadora */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    width: 300px; /* Largura fixa */
+}
+
+input {
+    margin: 10px 0; /* Margem superior e inferior */
+    padding: 10px; /* Espaçamento interno */
+    width: 100%; /* Largura total */
+    border: 1px solid #ccc; /* Borda cinza clara */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+
+button {
+    padding: 10px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    background: #28a745; /* Cor de fundo verde */
+    color: white; /* Texto branco */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Muda o cursor ao passar o mouse */
+    width: 100%; /* Largura total */
+}
+
+button:hover {
+    background: #218838; /* Cor de fundo mais escura ao passar o mouse */
+}
+
+#result {
+    margin-top: 15px; /* Margem superior */
+    font-size: 1.2em; /* Tamanho da fonte do resultado */
+}
